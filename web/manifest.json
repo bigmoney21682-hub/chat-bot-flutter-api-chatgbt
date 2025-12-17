@@ -1,6 +1,6 @@
 {
-    "name": "chat_bot_app",
-    "short_name": "chat_bot_app",
+    "name": "MyAi",
+    "short_name": "MyAi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
